@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Java script<br>
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning React<br>
 
 
 ## 🌐 Socials:
